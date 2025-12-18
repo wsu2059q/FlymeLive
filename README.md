@@ -33,7 +33,7 @@ Flyme 实况通知具有独特的交互方式：
 
 ## 示例
 
-``kotlin
+```kotlin
 val flymeLiveManager = FlymeLiveManager(context)
 
 // 创建胶囊视图
