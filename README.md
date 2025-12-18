@@ -1,5 +1,7 @@
 # FlymeLive 模块
 
+如果您不知道如何使用此包，请查看 [GitHub Packages 页面](https://github.com/wsu2059q/FlymeLive/packages/2781103?version=1.0.0) 获取帮助。
+
 FlymeLive 是一个用于简化 Flyme 系统实况通知功能使用的库。它提供了易于使用的 API 来创建和管理 Flyme 实况通知。
 
 > ⚠️ 为了获得最佳视觉效果，强烈建议开发者自定义胶囊的所有视觉元素（包括背景色、文字颜色、图标等），避免使用系统默认样式，因为默认样式可能无法达到理想的视觉效果。
@@ -31,7 +33,7 @@ Flyme 实况通知具有独特的交互方式：
 
 ## 示例
 
-```kotlin
+``kotlin
 val flymeLiveManager = FlymeLiveManager(context)
 
 // 创建胶囊视图
