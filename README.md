@@ -1,3 +1,6 @@
+> [!CAUTION]  
+> 气球（Flyme）亡了！！
+
 # FlymeLive 模块
 
 如果您不知道如何使用此包，请查看 [GitHub Packages 页面](https://github.com/wsu2059q/FlymeLive/packages/2781103?version=1.0.0) 获取帮助。
